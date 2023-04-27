@@ -1,0 +1,47 @@
+[
+
+{
+"id": 1,
+"image": "Model1.jpg",
+"star": "SSR",
+"des": "Vạn bình đẳng trước ta",
+"name": "DAZAI",
+"gender" : "Male"
+},
+
+{
+"id": 2,
+"image": "Model2.jpg",
+"star": "SR",
+"des": "Kẻ thù truyền kiếp",
+"name": "Mori và Fukuzawa",
+"gender" : "Male"
+},
+
+{
+"id": 3,
+"image": "Model3.jpg",
+"star": "SSR",
+"des": "Tuyết Dạ Xoa hãy tiêu diệt kẻ địch của ta",
+"name": "Kyoka",
+"gender" : "Female"
+},
+
+{
+"id": 4,
+"image": "Model4.jpg",
+"star": "SSR",
+"des": "RASHOMON!!!",
+"name": "Akutagawa",
+"gender" : "Male"
+},
+
+{
+"id": 5,
+"image": "Model5.jpg",
+"star": "SR",
+"des": "Tới đây Hồng Dạ Xoa!",
+"name": "Kouyou",
+"gender" : "Female"
+}
+]
